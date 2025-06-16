@@ -1,4 +1,4 @@
-# Group Project – Electronic Prescription System
+# Group Project – Day Hospital Management System
 
 This project was part of a school group assignment. The goal was to develop an electronic system for a day hospital using ASP.NET Core and MVC architecture.
 
